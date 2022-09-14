@@ -4,3 +4,12 @@
     width: 250;
     background-size: cover;
 }
+h2 {
+    background-color: salmon;
+}
+body {
+    background-color: cadetblue;
+}
+p {
+    background-color: bisque;
+}
